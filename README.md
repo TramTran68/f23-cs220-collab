@@ -10,7 +10,7 @@ Rules:
 This repository serves as a comprehensive guide to understand and practice the concepts of forking and branching in Git.
 This guide will walk you through the process of forking a repository, creating branches, making changes, and submitting pull requests.
 
-A. Forking a Repository
+**A. Forking a Repository**
 1. Visit any Repo on GitHub
 Choose a repository you'd like to contribute to or experiment with.
 
@@ -19,7 +19,7 @@ Click on the "Fork" button in the top-right corner of the repository page.
 Choose your own GitHub account as the destination for the fork.
 Now you have your own duplicate of the entire repository, including all branches at the time of forking. You have full control over this forked repository.
 
-B. Branching Within a Repository
+**B. Branching Within a Repository**
 A typical repository has branches like main (or master), staging, dev, and feature branches.
 
 1. Create a Feature Branch
@@ -42,7 +42,7 @@ git push origin feature-branch
 4.2.1. Specify your feature branch as the source branch.
 4.2.2. Specify the repository owner's branch (e.g., dev or staging) as the target branch.
    
-C. Contributing to an Open Source Project
+**C. Contributing to an Open Source Project**
 1. Fork the Project
 Fork the open source project you want to contribute to and follow the forking steps mentioned above.
 
